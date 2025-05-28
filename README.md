@@ -1,5 +1,9 @@
 ## Monkeytype Automation
-[MonkeyType Automation](https://github.com/user-attachments/assets/6950fb56-9b59-40f0-afd9-1b96a2065e1b)
+
+
+
+https://github.com/user-attachments/assets/ecb7922f-78fb-4680-aea5-97e4d9ea55ea
+
 
 
 ## Dino Game Automation
