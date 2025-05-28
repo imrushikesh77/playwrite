@@ -1,0 +1,7 @@
+open - https://monkeytype.com/
+click -> div.main > div.buttons > button.acceptAll
+collect all words and convert to string
+div#typingTest > div#wordsWrapper > div#words > [div.word > letter]
+
+input
+div#typingTest > div#wordsWrapper > input#wordsInput
